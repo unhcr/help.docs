@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Welcome to help.unhcr.org docs!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Overview
 
-## Commands
+These are the docs for developers working on help.unhcr.org. The documention is organizationed into the following sections:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+### [File Structure](file_structure.md)
 
-## Project layout
+This will help you understand how the files are organized and where you should look to find certain files.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### [Javascripts](javascript.md)
+
+This dives into each of the javascript files and what they are used for.
+
+### [CSS](css.md)
+
+This will describe the build process for the css as well as what to expect from the stylesheets.
+
+### [Deploy](deploy.md)
+
+This covers the deploy process of the help.unhcr.org website.
+
+### [Plugins](plugins.md)
+
+This explains all the plugins in use and what they are used for.

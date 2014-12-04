@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: help.unhcr.org
+pages:
+- [index.md, Home]
+- [file_structure.md, File Structure]
+- [javascript.md, Javascripts]
+- [css.md, CSS]
+- [deploy.md, Deploy]
+- [plugins.md, Plugins]
+theme: readthedocs
