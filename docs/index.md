@@ -2,7 +2,7 @@
 
 ## Overview
 
-These are the docs for developers working on help.unhcr.org. The documention is organizationed into the following sections:
+These are the docs for developers working on help.unhcr.org. All outstanding issues can be found on the [github page](https://github.com/unhcr/help.unhcr.org/issues). The documention is organizationed into the following sections:
 
 ### [File Structure](file_structure.md)
 
