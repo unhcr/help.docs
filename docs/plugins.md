@@ -19,5 +19,10 @@ To upload these to the production server, it's a similar process:
 
 
 ### WP-RTL
+
+This [plugin](https://wordpress.org/plugins/wp-rtl/) allows users to write left-to-right and right-to-left in the same post.
+
 ### WPML Multilingual CMS
+
+This [plugin](http://wpml.org/) allows for posts and different fields to be translated.
 

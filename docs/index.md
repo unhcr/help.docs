@@ -23,3 +23,7 @@ This covers the deploy process of the help.unhcr.org website.
 ### [Plugins](plugins.md)
 
 This explains all the plugins in use and what they are used for.
+
+### [Docs](docs.md)
+
+This explains how to build these docs. Very meta!
