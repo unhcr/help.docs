@@ -2,7 +2,7 @@
 
 help.unhcr.org uses a variety of plugins. This will go over the ones that are being used by the site and how they are used in the site.
 
-### Advanced Custom Fields Pro
+### Advanced Custom Fields Pro (ACF)
 
 This is the main plugin you will deal with when working with help.unhcr.org. You can find the docs here: [http://www.advancedcustomfields.com/resources](http://www.advancedcustomfields.com/resources)
 
@@ -18,11 +18,11 @@ To upload these to the production server, it's a similar process:
 3. Sync the fields with the rest of the sites using the multisite sync.
 
 
+### WPML Multilingual CMS
+
+This [plugin](http://wpml.org/) allows for posts and different fields to be translated. We use it in conjunction with ACF. It also provides String translations for static strings.
+
 ### WP-RTL
 
 This [plugin](https://wordpress.org/plugins/wp-rtl/) allows users to write left-to-right and right-to-left in the same post.
-
-### WPML Multilingual CMS
-
-This [plugin](http://wpml.org/) allows for posts and different fields to be translated.
 

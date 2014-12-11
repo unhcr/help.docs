@@ -7,5 +7,4 @@ pages:
 - [deploy.md, Deploy]
 - [plugins.md, Plugins]
 - [docs.md, Docs]
-- [metrics.md, Metrics]
 theme: readthedocs
